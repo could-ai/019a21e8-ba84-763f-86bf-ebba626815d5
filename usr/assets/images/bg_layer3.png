@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Foliage -->
+  <rect width="1920" height="720" fill="transparent"/>
+  <rect x="0" y="650" width="1920" height="70" fill="#FF6B6B" opacity="0.6"/>
+</svg>

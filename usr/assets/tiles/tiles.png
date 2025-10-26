@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tile atlas -->
+  <rect width="512" height="512" fill="#F6E7C4"/>
+  <rect x="0" y="0" width="32" height="32" fill="#2CB5A6" stroke="#18233C" stroke-width="2"/>
+  <!-- Add more tiles -->
+</svg>

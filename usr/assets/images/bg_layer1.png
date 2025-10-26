@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Procedural mountain silhouette -->
+  <rect width="1920" height="720" fill="#18233C"/>
+  <polygon points="0,720 400,400 800,500 1200,300 1600,450 1920,720" fill="#2CB5A6" opacity="0.5"/>
+</svg>

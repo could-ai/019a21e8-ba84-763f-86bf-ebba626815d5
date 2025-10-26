@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Forest shapes -->
+  <rect width="1920" height="720" fill="transparent"/>
+  <circle cx="300" cy="600" r="100" fill="#F6E7C4" opacity="0.7"/>
+  <circle cx="900" cy="550" r="120" fill="#F6E7C4" opacity="0.7"/>
+</svg>

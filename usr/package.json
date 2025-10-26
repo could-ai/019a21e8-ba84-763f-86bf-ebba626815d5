@@ -1,0 +1,4 @@
+{
+  "start": "python -m http.server 8000",
+  "build": "flutter build web"
+}

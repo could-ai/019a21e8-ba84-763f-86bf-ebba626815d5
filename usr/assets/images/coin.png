@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96" height="16" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coin animation -->
+  <rect width="96" height="16" fill="transparent"/>
+  <circle cx="8" cy="8" r="7" fill="#FF6B6B" stroke="#18233C" stroke-width="1"/>
+</svg>

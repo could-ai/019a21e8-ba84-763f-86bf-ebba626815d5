@@ -1,16 +1,27 @@
-# couldai_user_app
+# Platformer Demo
 
-A new Flutter project.
+A 2D platformer game built with Flutter and Flame.
 
-## Getting Started
+## Run Instructions
+1. Install Flutter: https://flutter.dev/docs/get-started/install
+2. Clone repo and run `flutter pub get`
+3. For web: `flutter build web` then open build/web/index.html
+4. For mobile: `flutter run`
 
-This project is a starting point for a Flutter application.
+## Controls
+- A/D or Arrow Keys: Move
+- W/Space/Up: Jump
+- Shift: Sprint
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter (Dart)
+- Flame (2D game engine)
+- Flame Audio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Asset Credits
+- Procedural assets generated via SVG and base64
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Extending
+- Add levels in lib/scenes/
+- New enemies in lib/entities/
+- Use Flame Tiled for JSON tilemaps

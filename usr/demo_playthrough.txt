@@ -1,0 +1,9 @@
+Demo Playthrough:
+1. Start: Main menu appears.
+2. Play: Load level with parallax BG.
+3. Move: Use A/D to walk, W to jump over platforms.
+4. Collect: Pick up coins for SFX.
+5. Combat: Avoid enemies or trigger chase.
+6. Hazards: Dodge spikes.
+7. Win: Reach portal for victory screen.
+8. Lose: Health 0 triggers game over.

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="56" xmlns="http://www.w3.org/2000/svg">
+  <!-- Charger enemy -->
+  <rect width="192" height="56" fill="transparent"/>
+  <rect x="0" y="0" width="48" height="56" fill="#2CB5A6" stroke="#18233C" stroke-width="2"/>
+</svg>

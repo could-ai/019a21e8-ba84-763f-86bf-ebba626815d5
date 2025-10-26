@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Walker enemy -->
+  <rect width="160" height="48" fill="transparent"/>
+  <rect x="0" y="0" width="40" height="48" fill="#F6E7C4" stroke="#18233C" stroke-width="2"/>
+</svg>
